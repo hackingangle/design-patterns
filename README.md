@@ -13,4 +13,4 @@
 - Github links
     - [demo.decorator-pattern.php][demo.decorator-pattern.php]
 
-[demo.decorator-pattern.php]:https://github.com/hackingangle/php/blob/master/demo.decorator-pattern.php
+[demo.decorator-pattern.php]:https://github.com/hackingangle/design-patterns/blob/master/demo.decorator-pattern.php
