@@ -24,3 +24,10 @@
 - [adapters.php][adapters.php]
 
 [adapters.php]:https://github.com/hackingangle/design-patterns/blob/master/adapters.php
+
+------
+## 4. 模版
+> 需要对特定的执行`进行固化`，适合匹配`流程比较固化`且`适配多种不同类别`，如：`API登录网站`、`抓取网页内容爬虫`...
+- [template.php][template.php]
+
+[template.php]:https://github.com/hackingangle/design-patterns/blob/master/template.php
