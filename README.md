@@ -4,28 +4,19 @@
 
 ------
 ## 1. 装饰器
-
 > 调用方法`不change`，动态`change`方法执行内容
-- Github links
-    - [decorator.php][decorator.php]
-    - [decorator-better.php][decorator-better.php]
+- [decorator.php][decorator.php]
+- [decorator-better.php][decorator-better.php]
 
-[decorator.php]:https://github.com/hackingangle/designs/blob/master/decorator.php
-[decorator-better.php]:https://github.com/hackingangle/designs/blob/master/decorator-better.php
+[decorator.php]:https://github.com/hackingangle/design-patterns/blob/master/decorator.php
+[decorator-better.php]:https://github.com/hackingangle/design-patterns/blob/master/decoratorBetter.php
 
 ------
 ## 2. 观察者
+> 对特定方法增加`观察者们`，当`特定方法`执行的时候，来自动调用`观察者们的`特定方法
+- [observe.php][observe.php]
 
-> The observer pattern is easily one of the most popular patterns in the bunch. And, luckily, it's one of the easier ones to comprehend. Let's review the essentials, while ultimately translating this new knowledge over to Laravel's implementation (in version 5).
-
-- The Observe Pattern
-    - 后续动作按照类重新封装，通过被观察者调用
-- vedios from dropbox.com
-    - **Pattern-02-The-Observer-Design.mp4**
-- Github links
-    - [observe.php][observe.php]
-
-[observe.php]:https://github.com/hackingangle/designs/blob/master/observe.php
+[obsever.php]:https://github.com/hackingangle/design-patterns/blob/master/obsever.php
 
 ------
 ## 3. 适配器
