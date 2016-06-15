@@ -39,4 +39,4 @@
 ## 1. 简单工厂
 - [simpleFactory][simpleFactory]
 
-[simpleFactory]:https://github.com/hackingangle/design-patterns/blob/master/simpleFactory
+[simpleFactory]:https://github.com/hackingangle/design-patterns/tree/master/Factory
