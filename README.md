@@ -2,6 +2,7 @@
 
 @(laravel)[设计模式|laravel框架准备知识]
 
+# 运行时模式
 ------
 ## 1. 装饰器
 > 调用方法`不change`，动态`change`方法执行内容
@@ -31,3 +32,11 @@
 - [template.php][template.php]
 
 [template.php]:https://github.com/hackingangle/design-patterns/blob/master/template.php
+
+# 创建模式
+
+------
+## 1. 简单工厂
+- [simpleFactory][simpleFactory]
+
+[simpleFactory]:https://github.com/hackingangle/design-patterns/blob/master/simpleFactory
